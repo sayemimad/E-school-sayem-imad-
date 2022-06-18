@@ -1,0 +1,23 @@
+Notes : 
+
+figma to html 
+
+Project-name :E school .
+
+font-family :  font-family: 'Poppins', sans-serif;
+  
+               font-family: 'Roboto',sans-serif;                          
+
+
+color:  header background color :   #F0FFF0;
+                          green : #21B573;
+                           black: #000000;
+                           white: #FFFFFF;
+                            Red: #FD511A;
+
+
+
+  font-family: 'Poppins', sans-serif;
+  
+
+  font-family: 'Roboto', sans-serif;                          
